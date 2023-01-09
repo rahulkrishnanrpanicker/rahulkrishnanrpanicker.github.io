@@ -160,12 +160,7 @@ width: 100vw;
   bottom: 0;
   z-index: -1;
   }
-  @media ( min-aspect-ratio: 16/19) {
-    .backvid {
-        width: 100%;
-        height: auto;
-    }
-  }
+
   .footer {
     font-family: 'Flamenco', cursive;
     font-weight: bold;
