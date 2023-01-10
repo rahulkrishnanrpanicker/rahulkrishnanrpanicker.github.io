@@ -10,6 +10,7 @@ body {
     background-repeat: no-repeat;
     padding: 0 4%;
     background-size: 100%;
+    background-attachment: fixed;
 }
 /*top section*/
 .topsec {
